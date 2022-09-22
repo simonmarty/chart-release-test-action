@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-22T23:03:10.793336926Z"
+    description: A Helm chart for Kubernetes
+    digest: 75f3790d193ec729fb8d512d929fcb2ab0cce4127bdf91b33b89b76cf681e295
+    name: charts
+    type: application
+    urls:
+    - https://github.com/simonmarty/chart-release-test-action/releases/download/charts-0.1.0/charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-22T23:03:10.793350827Z"
